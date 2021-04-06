@@ -6,6 +6,14 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightwithoutLisonlyight/dottify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LightwithoutLisonlyight/dottify/issues"
+  },
+  "homepage": "https://github.com/LightwithoutLisonlyight/dottify",
   "keywords": [
     "dottify"
   ],
