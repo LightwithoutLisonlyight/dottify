@@ -4,7 +4,7 @@
   "description": "Easiest way to flatten an object",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"No test configured\""
   },
   "repository": {
     "type": "git",
