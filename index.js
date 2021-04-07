@@ -1,10 +1,6 @@
 'use strict'
-
-exports.dottify = dottify
-
-
+module.exports = dottify
 function isObject(test){return test && typeof test === 'object'}
-
 function dottify(object,separator = '.'){
     try{
     let flatted = {}
@@ -19,3 +15,5 @@ function dottify(object,separator = '.'){
     }
     catch(e){console.log(e)}
 }
+
+

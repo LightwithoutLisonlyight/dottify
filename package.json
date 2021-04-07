@@ -1,6 +1,6 @@
 {
   "name": "dottify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simplest way to flatten an object",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,10 @@
   },
   "homepage": "https://github.com/LightwithoutLisonlyight/dottify",
   "keywords": [
-    "dottify"
+    "dottify",
+    "flatten object",
+    "dot",
+    "dot notation"
   ],
   "author": "lightwl",
   "license": "MIT"

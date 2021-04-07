@@ -9,7 +9,7 @@ How to use it ?
 ```javascript
 
 // Import it
-const { dottify } = require('dottify')
+const dottify = require('dottify')
 
 // Example Object
 let object = {
