@@ -1,7 +1,7 @@
 {
   "name": "dottify",
   "version": "1.0.2",
-  "description": "Simplest way to flatten an object",
+  "description": "Easiest way to flatten an object",
   "main": "index.js",
   "scripts": {
     "test": ""
