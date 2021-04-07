@@ -1,5 +1,7 @@
 # dottify - The easiest way to flat a object
 
+<img alt="npm" src="https://img.shields.io/npm/v/dottify"> <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/dottify">
+
 <br>
 
 How to use it ?
